@@ -2,7 +2,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=a2902793.a2902793">
 <!-- ![](https://komarev.com/ghpvc/?username=a2902793&color=yellow) -->
 <img align="right" alt="GIF" src="https://github.com/a2902793/a2902793/blob/master/img/code.gif?raw=true" width="375" height="240" />
-I'm an graduate student at Tamkang University, Taiwan. I like everything technology-wise and strive to be a "whole stack" person, learning about programming, electronics, firmware and hardware. My four essential C's of life are:<ul><li><b>C</b>hristopher Nolan films</li><li><b>C</b>orona Extra</li><li><b>C</b>offee</li><li><b>C</b>oke</li></ul>If you like to know more about me, take a look at my <a href="./CV.pdf">CV</a>.<br><br>
+I'm an graduate student at Tamkang University, Taiwan. I am currently a Google Developer Student Clubs Lead and a AWS Educate Cloud Ambassador.<br>Fun Fact: Most of the things I like happen to start with the letter <code>C</code>, the four essentials are:<ul><li><b>C</b>hristopher Nolan films</li><li><b>C</b>orona Extra</li><li><b>C</b>offee</li><li><b>C</b>oke</li></ul>If you like to know more about me, take a look at my <a href="./CV.pdf">CV</a>.<br><br>
 <a href="https://www.credly.com/badges/2d263314-8ba4-49d6-88c9-66ce1c541273"><img align="left" height="75" src="img/Certifications/sc-900.png"></a>
 <a href="https://www.credly.com/badges/09585e4b-8a76-4cfb-ae91-dfa74362f366"><img align="left" height="75" src="img/Certifications/ai-900.png"></a>
 <a href="https://www.credly.com/badges/95f57856-85ec-41dd-b510-783b36986183"><img align="left" height="75" src="img/Certifications/az-900.png"></a>
